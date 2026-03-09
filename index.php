@@ -1,6 +1,6 @@
 <?php
 
-$valor = 16;
+$valor = 40;
 
     if ($valor <= 10) {
         echo "Criança";
